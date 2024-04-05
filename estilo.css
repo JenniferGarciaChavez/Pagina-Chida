@@ -1,0 +1,106 @@
+body{
+    background-color:black;
+}
+.netflix{
+    display: flex;
+    border-style: double;
+}
+.im1
+{
+    width: 210px;
+    height: 80px;
+}
+.titulosN{
+    color: white;
+    align-self: center;             /*Para que el texto se alinie al centro de la imagen a un lado*/
+    margin-right: 380px;
+    display: flex;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:unset;
+}
+.titulosN1{
+    color: white;
+    align-self: center;             /*Para que el texto se alinie al centro de la imagen a un lado*/
+    margin-right: 10px;
+    display: flex;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:unset;
+    padding: 10px;
+}
+.titulosN2{
+    color: white;
+    align-self: center;             /*Para que el texto se alinie al centro de la imagen a un lado*/
+    margin-left: 10px;
+    display: flex;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:unset;
+    padding: 10px;
+}
+.titulosniños{
+    color: white;
+    align-self: center;             /*Para que el texto se alinie al centro de la imagen a un lado*/
+    margin-right: 0px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Us1{
+    width: 40px;
+    height: 40px;
+    margin-left: 0px;
+    display: flex;
+    border-style: double;
+    padding: 15px;
+    justify-content:end;
+}
+.Us2{
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;              /*Margen antes de la img (espaciado)*/
+    display: flex;
+    border-style: double;
+    padding: 15px;
+    justify-content: end;
+}
+.Us3{
+    width: 40px;
+    height: 40px;
+    margin-left: 500px;
+    display: flex;
+    border-style: double;
+    padding: 15px;
+}
+.nf{
+    width: 20px;
+}
+.Us{
+    width: 20px;
+}
+.im2{
+    margin-right: 50px;
+}
+.Prin{
+    color: white;
+    background-image: url(C3.jpg);
+    background-repeat: no-repeat;
+    background-position:left, right ;
+    background-size: cover;
+    padding: 300px;
+    width: 1500;
+    height: 1500;
+    text-align:start;
+}
+.prin{
+    width: 1500px;
+    color: white;
+}
+.Pt{
+    color: white;                   /*Color de las letras*/
+}
+.PT{
+    margin-right: 50px;             /*Espacio entre imagenes despues de la img*/
+    width: 255px;                   /*Ancho de una imagen*/
+    height: 320px;                   /*Alto de una imagen*/
+}
